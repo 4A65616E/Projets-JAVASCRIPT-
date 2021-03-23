@@ -5,7 +5,7 @@ Find all the projects made in JAVASCRIPT
 ### Dans le dossier "Games" vous trouverez des jeux comme : 
 
 - Bomberman. <br> 
-fait en groupe -> [Karen](https://github.com/karen-ifrt) , [Mickael](https://github.com/Livradoch) , [Moi meme](https://github.com/JeanVincentz)
+fait en groupe -> [Karen](https://github.com/karen-ifrt) , [Mickael](https://github.com/Livradoch) , [Moi](https://github.com/JeanVincentz)
 
 - Casse Briques. <br>
 Projet solo
